@@ -1,0 +1,13 @@
+{
+  "app-title": "TV Shows Wiki",
+  "tv-show-card": {
+    "expand": "Voir plus",
+    "created-in": "Créée en",
+    "unknown-year" : "Date de création non renseignée",
+    "is-favorite" : "Favorie !"
+  },
+  "show-detail": {
+    "favorite-button": "Ajouter aux favoris",
+    "remove-favorite-button": "Enlever des favoris"
+  }
+}

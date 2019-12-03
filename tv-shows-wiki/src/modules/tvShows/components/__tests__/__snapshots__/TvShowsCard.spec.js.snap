@@ -1,0 +1,23 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`TvShowCard.vue should render correctly TvShowCard 1`] = `
+<div class="md-card show md-elevation-4 md-theme-default">
+  <div class="md-card-media"><img alt="ShowImage" class="show__poster"></div>
+  <div class="md-card-header">
+    <div class="md-title show__title">OSB show</div>
+    <div class="md-subhead">Créée en 2015</div>
+  </div>
+  <div class="md-card-expand">
+    <div class="md-card-actions md-alignment-space-between"><button type="button" class="md-button show__expand-button md-card-expand-trigger md-theme-default">
+        <div class="md-ripple">
+          <div class="md-button-content">Voir plus</div>
+        </div>
+      </button>
+      <!---->
+    </div>
+    <div class="md-card-expand-content" style="margin-top: -0px; opacity: 1;">
+      <div class="md-card-content"><span class="show__description">Description de la série OSB show...</span></div>
+    </div>
+  </div>
+</div>
+`;
